@@ -1,0 +1,16 @@
+{
+  "name": "Room Split",
+  "short_name": "RoomSplit",
+  "description": "Smart expense splitting for roommates",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
