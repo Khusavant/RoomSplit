@@ -107,9 +107,8 @@ export function initRouter() {
   // Handle initial route
   if (!window.location.hash) {
     window.location.hash = '#/';
-  } else {
-    handleRouteChange();
   }
+  handleRouteChange();
 }
 
 export function destroyRouter() {
